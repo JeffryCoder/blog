@@ -23,4 +23,10 @@ body {
 }
 .formArticle{
     background-color: firebrick;
+    margin: 10px;
+}
+.formArticle h4{
+    color: forestgreen;
+    margin-bottom: -1px;
+    margin-top: 5px;
 }
